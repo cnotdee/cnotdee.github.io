@@ -38,7 +38,7 @@ header a{
 
 }
  a.active,a:hover{
-	border-bottom: 2px solid orange;
+	border-bottom: 2px solid white;
 }
 
 /*Home */
